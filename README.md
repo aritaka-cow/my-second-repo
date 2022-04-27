@@ -1,2 +1,2 @@
 # my-second-repo
-My second repo
+My Awesome repo
